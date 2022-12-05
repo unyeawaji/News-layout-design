@@ -78,7 +78,7 @@ button:hover{
 }
 
 .content1{
-  background: url("/image/image-web-3-desktop.jpg");
+  background: url("image-web-3-desktop.jpg");
   background-position: center center;
   background-size: cover; 
   
@@ -174,7 +174,7 @@ text-transform: uppercase;
   /* border: 1px solid black; */
   width:6rem;
   box-sizing: border-box;
-  background: url("/image/image-retro-pcs.jpg");
+  background: url("image-retro-pcs.jpg");
   background-size:cover;
   background-position:center center;
 }
@@ -183,7 +183,7 @@ text-transform: uppercase;
   /* border: 1px solid black; */
   width:6rem;
   box-sizing: border-box;
-  background: url("/image/image-top-laptops.jpg");
+  background: url("image-top-laptops.jpg");
   background-size:cover;
   background-position:center center;
 }
@@ -192,7 +192,7 @@ text-transform: uppercase;
   /* border: 1px solid black; */
   width:6rem;
   box-sizing: border-box;
-  background: url("/image/image-gaming-growth.jpg");
+  background: url("image-gaming-growth.jpg");
   background-size:cover;
   background-position:center center;
   cursor: pointer;
@@ -320,7 +320,7 @@ text-transform: uppercase;
 
 .content1{
   grid-area: content1;
-    background: url("/image/image-web-3-desktop.jpg");
+    background: url("image-web-3-desktop.jpg");
   background-position: center center;
   background-size: cover;
   width: 90%;
